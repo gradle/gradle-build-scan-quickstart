@@ -48,7 +48,7 @@ The Build Scan™ quickstart project is open-source software released under the 
 
 [apache-license]: https://www.apache.org/licenses/LICENSE-2.0.html
 [gradle-download]: https://gradle.org/install/
-[manual]: https://docs.gradle.com/develocity/gradle-plugin/current/
+[manual]: https://docs.develocity.ai/gradle/current/
 [gradle.com]: https://www.gradle.com
 [terms-of-service]: https://gradle.com/terms-of-service
 [scans.gradle.com]: https://scans.gradle.com/
